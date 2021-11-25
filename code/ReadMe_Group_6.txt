@@ -1,6 +1,3 @@
-2020MCB1244 : Rahul Vinod
-2020CSB1080 : Ayushi Patel
-2020CSB1039 : Armaan Sharma
 
 Teaching Assistant : Napendra Solanki
 
